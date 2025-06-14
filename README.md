@@ -19,7 +19,7 @@ A simple Python-based web app to **convert audio (MP3 or YouTube link)** into **
 
 ### 1. Clone the repository
 bash
-git clone [https://github.com/yourusername/whisper-transcriber.git](https://github.com/Foxdty/AudioToText/edit/main/README.md)\
+git clone https://github.com/Foxdty/AudioToText.git
 
 Install whisper and gradio
 pip install git+https://github.com/openai/whisper.git
